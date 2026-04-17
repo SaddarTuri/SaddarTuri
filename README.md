@@ -1,49 +1,48 @@
-# 👋 Hi, I'm Saddar Abbas
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Saddar%20Abbas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-🚀 Senior Mobile Developer  
-📱 Android (Kotlin, Java) | Flutter  
-📍 Riyadh, Saudi Arabia  
+<h2 align="center">Senior Mobile Developer</h2>
 
----
+<p align="center">
+  Android (Kotlin, Java) • Flutter • Clean Architecture
+</p>
 
-## 💼 About Me
-
-- 6+ years building scalable mobile applications  
-- Strong focus on Native Android development  
-- Experienced in Flutter for cross-platform solutions  
-- Expertise in Clean Architecture, MVVM, and modular systems  
-- Built enterprise apps serving 10,000+ users  
-- Worked with international teams across UK and Vietnam  
-
----
-
-## 🛠 Tech Stack
-
-- **Android:** Kotlin, Java, Jetpack, Compose  
-- **Flutter:** Dart, Riverpod, Bloc  
-- **Architecture:** Clean Architecture, MVVM, MVI  
-- **Backend:** REST APIs, Firebase, Stripe  
-- **Advanced:** AI features, OCR, Offline-first systems  
-- **Tools:** Git, CI/CD, Crashlytics, Jira  
+<p align="center">
+  <a href="https://linkedin.com/in/saddar-abbas-93a344142">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saddarturi@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SaddarTuri&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</p>
 
 ---
 
-## 🚀 Key Work
+<p align="center">
+  I build scalable mobile applications with a strong focus on Native Android and Flutter, using clean architecture, modular systems, and production-ready engineering practices.
+</p>
 
-- Field service apps with offline sync and real-time updates  
-- Stripe payment integration in production apps  
-- AI-based receipt scanner with automated data extraction  
-- Real-time chat and enterprise communication systems  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter,dart,firebase,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MVVM-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/MVI-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SaddarTuri&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaddarTuri&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- LinkedIn: https://linkedin.com/in/saddar-abbas-93a344142  
-- Email: saddarturi@gmail.com  
-
----
-
-## ⚡ Focus
-
-Building clean, scalable, and production-ready mobile systems
+<p align="center">
+  <i>Building clean, scalable, and production-ready mobile systems.</i>
+</p>
