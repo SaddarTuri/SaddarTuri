@@ -18,8 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=SaddarTuri&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
----
-
 <p align="center">
   I build scalable mobile applications with a strong focus on Native Android and Flutter, using clean architecture, modular systems, and production-ready engineering practices.
 </p>
@@ -36,11 +34,9 @@
   <img src="https://img.shields.io/badge/CI%2FCD-222222?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
----
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SaddarTuri&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaddarTuri&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SaddarTuri&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaddarTuri&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&size_weight=0.5&count_weight=0.5&langs_count=6&v=2" />
 </p>
 
 <p align="center">
